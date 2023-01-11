@@ -16,7 +16,7 @@ skills: Data Science
 # Header Settings
 set_blog: true                        # Display blog? 
 header_bg: background.jpg          # Header background Image
-header_bg_title: <a href='http://www.freepik.com'>Background image Designed by Freepik</a>
+# header_bg_title: <a href='http://www.freepik.com'>Background image Designed by Freepik</a>
 
 # Footer settings
 footer:                               #Footer Headers
@@ -28,16 +28,16 @@ footer:                               #Footer Headers
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # For more icons look at http://fontawesome.io/icons/#brand
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
   - title: linkedin
-    url: https://linkedin.com
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.linkedin.com/in/maria-contractor-4b039b21b/
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket
+#     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/mcont55
 
 # Postal address (add as many lines as necessary)
 address:
@@ -45,7 +45,7 @@ address:
   - line: Saint Johns, FL, 32259
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
