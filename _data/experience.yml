@@ -1,11 +1,12 @@
 - class: ""
   icon: "1.jpg"
   icon-alt: "image-alt"
-  title: "Fall 2017"
-  sub_title: "SubTitle"
+  title: "November 2022"
+  sub_title: "Data Team at Knight Hacks @ UCF"
   description: | 
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente,
-        totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+        -	Gather information on past hackathon data to predict trends and propose solutions to challenges
+        -	Use of SQL and R Studio to analyze and visualize data
+
 
 - class: "timeline-inverted"
   icon: "2.jpg"
