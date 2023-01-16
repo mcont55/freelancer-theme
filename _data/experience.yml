@@ -1,7 +1,7 @@
 - class: ""
-  #icon: "1.jpg"
-  #icon-alt: "image-alt"
-  title: "November 2022"
+  icon: "1.jpg"
+  icon-alt: "image-alt"
+  title: "November 2022 - Present"
   sub_title: "Data Team at Knight Hacks @ UCF"
   description: | 
         -	Gather information on past hackathon data to predict trends and propose solutions to challenges
@@ -10,10 +10,25 @@
 
 
 - class: "timeline-inverted"
-  #icon: "2.jpg"
-  #icon-alt: "image-alt"
-  title: "August 2021"
+  icon: "2.jpg"
+  icon-alt: "image-alt"
+  title: "June 2022 - Present"
+  sub_title: "Raas Rampage Finance Team"
+  description: | 
+        National Non-Profit Garba-Raas Dance Competition. All profits go to will go towards building Florida’s first shelter for domestic violence victims of South Asian descent.
+    
+- class: "timeline-inverted"
+  icon: "2.jpg"
+  icon-alt: "image-alt"
+  title: "June 2022 - Present"
+  sub_title: "Indian Students Association Diwali Director"
+  description: | 
+        Organized a cultural show where individuals in Asian communities can showcase their talent. The show included a variety of performances and Indian food.
+
+- class: "timeline-inverted"
+  icon: "2.jpg"
+  icon-alt: "image-alt"
+  title: "August 2021 - Present"
   sub_title: "LEAD Scholars Academy"
   description: | 
         Selective, two-year academic leadership development program for first time-in-college students.
-
