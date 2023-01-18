@@ -11,9 +11,9 @@
         - title: "Click Here to see the Project!"
           href: https://github.com/mcont55/Covid-19-Statistical-Analysis-Report
     - title: "Date"
-     # links:
+      links:
         - title: "January 2021 - May 2021"
-         # href: "#"
+          href: "#"
 #     - title: "Services"
 #       links:                                # Example 1:
 #         - title: "Web Development"
@@ -22,11 +22,11 @@
 #           href: https://startbootstrap.com
 #           href: "#"
     - title: "Tools"
-     # links:
+      links:
         - title: "Excel"
-          #href: "#"
+          href: "#"
         - title: "Word"
-         # href: "#"
+          href: "#"
     
 - id: "2"
   title: "Project 2"
