@@ -122,35 +122,41 @@
         - title: "C Programming"
           href: "#"          
     
-# - id: "5"
-#   title: "Binary Trees"
-#   pic_name: "safe.png"
-#   icon_name: "safe.png"
-#   description: |
-#     Implemented a binary tree from scratch using the C language. Applied it to sort animal species as nested trees. Added methods to insert, update and delete individual species and access the trees at multiple levels.
-#   points: 
-#   points: 
-#     - title: "Link"
+- id: "5"
+  title: "Binary Trees"
+  pic_name: "safe.png"
+  icon_name: "safe.png"
+  description: |
+    Implemented a binary tree from scratch using the C language. Applied it to sort animal species as nested trees. Added methods to insert, update and delete individual species and access the trees at multiple levels.
+    
+  points: 
+    - title: "Link"
+      links:
+        - title: "Click Here to see the Project!"
+          href: https://github.com/mcont55/Binary-Trees
+    - title: "Date"
+      links:
+        - title: "February 2022"
+          href: "#"
+#     - title: "Services"
 #       links:
-#         - title: "Click Here to see the Project!"
-#           href: https://github.com/mcont55/Binary-Trees
-#     - title: "Date"
-#       links:
-#         - title: "February 2022"
+#         - title: "Web Development"
+#           href: https://startbootstrap.com
+#         - title: "Web Design"
+#           href: https://startbootstrap.com
 #           href: "#"
-# #     - title: "Services"
-# #       links:
-# #         - title: "Web Development"
-# #           href: https://startbootstrap.com
-# #         - title: "Web Design"
-# #           href: https://startbootstrap.com
-# #           href: "#"
-#     - title: "Tools"
-#       links:
-#         - title: "Use of structs, pointers, file I/O, and dynamic memory allocation in C"
-#           href: "#"
-# #         - title: "SCSS"
-# #           href: "#"
+    - title: "Tools"
+      links:
+        - title: "Structs"
+          href: "#"
+        - title: "Pointers"
+          href: "#"
+        - title: "File I/O"
+          href: "#"
+        - title: "Dynamic Memory Allocation"
+          href: "#"
+        - title: "C Programming"
+          href: "#"
     
 # # - id: "6"
 # #   title: "Project 6"
