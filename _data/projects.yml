@@ -27,53 +27,25 @@
           href: "#"
         - title: "Word"
           href: "#"
-    
+          
 - id: "2"
   title: "Movie Web Scraping"
   pic_name: "cake.png"
   icon_name: "cake.png"
   description: |
     Web scraped the Top 100 Christmas Movies and conducted a data analysis in a CSV file.
-  points:
-   - title: "Link"
-        links:                                # Add as many links as necessary(look at Example 1)
-          - title: "Click Here to see the Project!"
-            href: https://github.com/mcont55/Movie-Web-Scraping
+  
+  points:                                 # Add as many points as necessary
+    - title: "Link"
+      links:                                # Add as many links as necessary(look at Example 1)
+        - title: "Click Here to see the Project!"
+          href: https://github.com/mcont55/Movie-Web-Scraping
     - title: "Date"
       links:
         - title: "December 2022"
           href: "#"
-#    - title: "Services"
- #     links:
-  #      - title: "Web Development"
-  #        href: https://startbootstrap.com
-  #      - title: "Web Design"
-   #       href: https://startbootstrap.com
-   #       href: "#"
-    - title: "Tools"
-      links:
-        - title: "Beautiful Soup to parse data from an HTML file in Jupyter Notebook"
-          href: "#"
-#         - title: "SCSS"
-#           href: "#"
-    
-- id: "3"
-  title: "Wine Quality Visualization"
-  pic_name: "circus.png"
-  icon_name: "circus.png"
-  description: |
-    Tidied the raw data and created a visualization of the correlation between Wine Quality variables
-  points: 
-    - title: "Link"
-      links:
-        - title: "Click Here to see the Project!"
-          href: https://github.com/mcont55/Wine-Quality-Visualization
-    - title: "Date"
-      links:
-        - title: "October 2022"
-          href: "#"
 #     - title: "Services"
-#       links:
+#       links:                                # Example 1:
 #         - title: "Web Development"
 #           href: https://startbootstrap.com
 #         - title: "Web Design"
@@ -81,99 +53,128 @@
 #           href: "#"
     - title: "Tools"
       links:
-        - title: "Use of the Dpylr and Ggplot libraries in R Studio to analyze and visualize relevant data"
+        - title: "Beautiful Soup"
           href: "#"
-#         - title: "SCSS"
-#           href: "#"
+        - title: "Python"
+          href: "#"
     
-- id: "4"
-  title: "Cesar Cipher"
-  pic_name: "game.png"
-  icon_name: "game.png"
-  description: |
-    Implemented basic encryption of text using a shifting mechanism to offset alphabetical characters. 
-  points: 
-    - title: "Link"
-      links:
-        - title: "Click Here to see the Project!"
-          href: https://github.com/mcont55/Cesar-Cipher
-    - title: "Date"
-      links:
-        - title: "October 2021"
-          href: "#"
-#     - title: "Services"
-#       links:
-#         - title: "Web Development"
-#           href: https://startbootstrap.com
-#         - title: "Web Design"
-#           href: https://startbootstrap.com
-#           href: "#"
-    - title: "Tools"
-      links:
-        - title: "Use of ASCII character processing and file I/O in C"
-          href: "#"
-#         - title: "SCSS"
-#           href: "#"
-          
-    
-- id: "5"
-  title: "Binary Trees"
-  pic_name: "safe.png"
-  icon_name: "safe.png"
-  description: |
-    Implemented a binary tree from scratch using the C language. Applied it to sort animal species as nested trees. Added methods to insert, update and delete individual species and access the trees at multiple levels.
-  points: 
-  points: 
-    - title: "Link"
-      links:
-        - title: "Click Here to see the Project!"
-          href: https://github.com/mcont55/Binary-Trees
-    - title: "Date"
-      links:
-        - title: "February 2022"
-          href: "#"
-#     - title: "Services"
-#       links:
-#         - title: "Web Development"
-#           href: https://startbootstrap.com
-#         - title: "Web Design"
-#           href: https://startbootstrap.com
-#           href: "#"
-    - title: "Tools"
-      links:
-        - title: "Use of structs, pointers, file I/O, and dynamic memory allocation in C"
-          href: "#"
-#         - title: "SCSS"
-#           href: "#"
-    
-# - id: "6"
-#   title: "Project 6"
-#   pic_name: "submarine.png"
-#   icon_name: "submarine.png"
+# - id: "3"
+#   title: "Wine Quality Visualization"
+#   pic_name: "circus.png"
+#   icon_name: "circus.png"
 #   description: |
-#     Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons.
-#     On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+#     Tidied the raw data and created a visualization of the correlation between Wine Quality variables
 #   points: 
-#     - title: "Client"
+#     - title: "Link"
 #       links:
-#         - title: "Start Bootstrap"
-#           href: https://startbootstrap.com/
+#         - title: "Click Here to see the Project!"
+#           href: https://github.com/mcont55/Wine-Quality-Visualization
 #     - title: "Date"
 #       links:
-#         - title: "December 2016"
+#         - title: "October 2022"
 #           href: "#"
-#     - title: "Services"
+# #     - title: "Services"
+# #       links:
+# #         - title: "Web Development"
+# #           href: https://startbootstrap.com
+# #         - title: "Web Design"
+# #           href: https://startbootstrap.com
+# #           href: "#"
+#     - title: "Tools"
 #       links:
-#         - title: "Web Development"
-#           href: https://startbootstrap.com
-#         - title: "Web Design"
-#           href: https://startbootstrap.com
+#         - title: "Use of the Dpylr and Ggplot libraries in R Studio to analyze and visualize relevant data"
 #           href: "#"
-#     - title: "Languages"
+# #         - title: "SCSS"
+# #           href: "#"
+    
+# - id: "4"
+#   title: "Cesar Cipher"
+#   pic_name: "game.png"
+#   icon_name: "game.png"
+#   description: |
+#     Implemented basic encryption of text using a shifting mechanism to offset alphabetical characters. 
+#   points: 
+#     - title: "Link"
 #       links:
-#         - title: "html"
+#         - title: "Click Here to see the Project!"
+#           href: https://github.com/mcont55/Cesar-Cipher
+#     - title: "Date"
+#       links:
+#         - title: "October 2021"
 #           href: "#"
-#         - title: "SCSS"
+# #     - title: "Services"
+# #       links:
+# #         - title: "Web Development"
+# #           href: https://startbootstrap.com
+# #         - title: "Web Design"
+# #           href: https://startbootstrap.com
+# #           href: "#"
+#     - title: "Tools"
+#       links:
+#         - title: "Use of ASCII character processing and file I/O in C"
 #           href: "#"
+# #         - title: "SCSS"
+# #           href: "#"
+          
+    
+# - id: "5"
+#   title: "Binary Trees"
+#   pic_name: "safe.png"
+#   icon_name: "safe.png"
+#   description: |
+#     Implemented a binary tree from scratch using the C language. Applied it to sort animal species as nested trees. Added methods to insert, update and delete individual species and access the trees at multiple levels.
+#   points: 
+#   points: 
+#     - title: "Link"
+#       links:
+#         - title: "Click Here to see the Project!"
+#           href: https://github.com/mcont55/Binary-Trees
+#     - title: "Date"
+#       links:
+#         - title: "February 2022"
+#           href: "#"
+# #     - title: "Services"
+# #       links:
+# #         - title: "Web Development"
+# #           href: https://startbootstrap.com
+# #         - title: "Web Design"
+# #           href: https://startbootstrap.com
+# #           href: "#"
+#     - title: "Tools"
+#       links:
+#         - title: "Use of structs, pointers, file I/O, and dynamic memory allocation in C"
+#           href: "#"
+# #         - title: "SCSS"
+# #           href: "#"
+    
+# # - id: "6"
+# #   title: "Project 6"
+# #   pic_name: "submarine.png"
+# #   icon_name: "submarine.png"
+# #   description: |
+# #     Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons.
+# #     On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+# #   points: 
+# #     - title: "Client"
+# #       links:
+# #         - title: "Start Bootstrap"
+# #           href: https://startbootstrap.com/
+# #     - title: "Date"
+# #       links:
+# #         - title: "December 2016"
+# #           href: "#"
+# #     - title: "Services"
+# #       links:
+# #         - title: "Web Development"
+# #           href: https://startbootstrap.com
+# #         - title: "Web Design"
+# #           href: https://startbootstrap.com
+# #           href: "#"
+# #     - title: "Languages"
+# #       links:
+# #         - title: "html"
+# #           href: "#"
+# #         - title: "SCSS"
+# #           href: "#"
     
     
