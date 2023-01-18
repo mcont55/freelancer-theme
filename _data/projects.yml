@@ -63,7 +63,7 @@
   pic_name: "circus.png"
   icon_name: "circus.png"
   description: |
-    Tidied the raw data and created a visualization of the correlation between Wine Quality variables
+    Tidied the raw data and created a visualization of the correlation between Wine Quality variables.
   
   points:                                 # Add as many points as necessary
     - title: "Link"
