@@ -90,64 +90,37 @@
         - title: "R Studio"
           href: "#"
 
-# - id: "3"
-#   title: "Wine Quality Visualization"
-#   pic_name: "circus.png"
-#   icon_name: "circus.png"
-#   description: |
-#     Tidied the raw data and created a visualization of the correlation between Wine Quality variables
-#   points: 
-#     - title: "Link"
-#       links:
-#         - title: "Click Here to see the Project!"
-#           href: https://github.com/mcont55/Wine-Quality-Visualization
-#     - title: "Date"
-#       links:
-#         - title: "October 2022"
-#           href: "#"
-# #     - title: "Services"
-# #       links:
-# #         - title: "Web Development"
-# #           href: https://startbootstrap.com
-# #         - title: "Web Design"
-# #           href: https://startbootstrap.com
-# #           href: "#"
-#     - title: "Tools"
-#       links:
-#         - title: "Use of the Dpylr and Ggplot libraries in R Studio to analyze and visualize relevant data"
-#           href: "#"
-# #         - title: "SCSS"
-# #           href: "#"
+- id: "4"
+  title: "Cesar Cipher"
+  pic_name: "game.png"
+  icon_name: "game.png"
+  description: |
+    Implemented basic encryption of text using a shifting mechanism to offset alphabetical characters.
     
-# - id: "4"
-#   title: "Cesar Cipher"
-#   pic_name: "game.png"
-#   icon_name: "game.png"
-#   description: |
-#     Implemented basic encryption of text using a shifting mechanism to offset alphabetical characters. 
-#   points: 
-#     - title: "Link"
+  points: 
+    - title: "Link"
+      links:
+        - title: "Click Here to see the Project!"
+          href: https://github.com/mcont55/Cesar-Cipher
+    - title: "Date"
+      links:
+        - title: "October 2021"
+          href: "#"
+#     - title: "Services"
 #       links:
-#         - title: "Click Here to see the Project!"
-#           href: https://github.com/mcont55/Cesar-Cipher
-#     - title: "Date"
-#       links:
-#         - title: "October 2021"
+#         - title: "Web Development"
+#           href: https://startbootstrap.com
+#         - title: "Web Design"
+#           href: https://startbootstrap.com
 #           href: "#"
-# #     - title: "Services"
-# #       links:
-# #         - title: "Web Development"
-# #           href: https://startbootstrap.com
-# #         - title: "Web Design"
-# #           href: https://startbootstrap.com
-# #           href: "#"
-#     - title: "Tools"
-#       links:
-#         - title: "Use of ASCII character processing and file I/O in C"
-#           href: "#"
-# #         - title: "SCSS"
-# #           href: "#"
-          
+    - title: "Tools"
+      links:
+        - title: "ASCII Character Processing"
+          href: "#"
+        - title: "File I/O"
+          href: "#"
+        - title: "C Programming"
+          href: "#"          
     
 # - id: "5"
 #   title: "Binary Trees"
