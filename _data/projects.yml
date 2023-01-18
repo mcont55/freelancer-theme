@@ -57,7 +57,39 @@
           href: "#"
         - title: "Python"
           href: "#"
-    
+
+- id: "3"
+  title: "Wine Quality Visualization"
+  pic_name: "circus.png"
+  icon_name: "circus.png"
+  description: |
+    Tidied the raw data and created a visualization of the correlation between Wine Quality variables
+  
+  points:                                 # Add as many points as necessary
+    - title: "Link"
+      links:                                # Add as many links as necessary(look at Example 1)
+        - title: "Click Here to see the Project!"
+          href: https://github.com/mcont55/Wine-Quality-Visualization
+    - title: "Date"
+      links:
+        - title: "October 2022"
+          href: "#"
+#     - title: "Services"
+#       links:                                # Example 1:
+#         - title: "Web Development"
+#           href: https://startbootstrap.com
+#         - title: "Web Design"
+#           href: https://startbootstrap.com
+#           href: "#"
+    - title: "Tools"
+      links:
+        - title: "Dpylr"
+          href: "#"
+        - title: "Ggplot"
+          href: "#"          
+        - title: "R Studio"
+          href: "#"
+
 # - id: "3"
 #   title: "Wine Quality Visualization"
 #   pic_name: "circus.png"
